@@ -1,0 +1,108 @@
+﻿Build started 2013/10/17 13:56:44.
+     1>Project "D:\svn\3600Safe\A-Protect_0.4.3\Driver\SafeSystem.vcxproj" on node 2 (build target(s)).
+     1>InitializeBuildStatus:
+         Touching "Release\SafeSystem.unsuccessfulbuild".
+       ClCompile:
+         C:\Program Files\Microsoft Visual Studio 10.0\VC\bin\CL.exe /c /Zi /nologo /W3 /WX- /O2 /Oy- /D WIN32 /D NDEBUG /D _WINDOWS /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Release\\" /Fd"Release\vc100.pdb" /Gd /TC /analyze- /errorReport:prompt AntiInlineHook.c Atapi.c Control.c DeleteFile.c DpcTimer.c DriverHips.c dump.c file.c FileSystem.c Fixrelocation.c FuncAddrValid.c Function.c InitWindowsVersion.c InlineHook.c IoTimer.c kbdclass.c KernelFilterDriver.c KernelHookCheck.c KernelReload.c KernelThread.c KillProcess.c LookupKernelData.c Mouclass.c msghook.c NetworkDefense.c nsiproxy.c Ntfs.c ntos.c ObjectHookCheck.c Port.c Process.c ProcessModule.c Protect.c ReLoadShadowSSDTTableHook.c ReLoadSSDTTableHook.c SafeSystem.c Services.c ShadowSSDT.c SSDT.c Startup.c SysModule.c SystemNotify.c SystemThread.c Tcpip.c win32k.c WorkQueue.c
+         AntiInlineHook.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Atapi.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Control.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         DeleteFile.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         DpcTimer.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         DriverHips.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         dump.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         file.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         FileSystem.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Fixrelocation.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         FuncAddrValid.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Function.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         InitWindowsVersion.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         InlineHook.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         IoTimer.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         kbdclass.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         KernelFilterDriver.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         KernelHookCheck.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         KernelReload.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         KernelThread.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Generating Code...
+         Compiling...
+         KillProcess.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         LookupKernelData.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Mouclass.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         msghook.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         NetworkDefense.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         nsiproxy.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Ntfs.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         ntos.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         ObjectHookCheck.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Port.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Process.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         ProcessModule.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Protect.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         ReLoadShadowSSDTTableHook.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         ReLoadSSDTTableHook.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         SafeSystem.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Services.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         ShadowSSDT.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         SSDT.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Startup.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Generating Code...
+         Compiling...
+         SysModule.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         SystemNotify.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         SystemThread.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Tcpip.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         win32k.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         WorkQueue.c
+     1>d:\svn\3600safe\a-protect_0.4.3\driver\ntifs.h(37): fatal error C1083: Cannot open include file: 'ntdef.h': No such file or directory
+         Generating Code...
+     1>Done Building Project "D:\svn\3600Safe\A-Protect_0.4.3\Driver\SafeSystem.vcxproj" (build target(s)) -- FAILED.
+
+Build FAILED.
+
+Time Elapsed 00:00:02.10
